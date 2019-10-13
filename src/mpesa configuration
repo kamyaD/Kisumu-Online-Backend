@@ -1,0 +1,15 @@
+{ "access_token": "yeHZBVtTvRkB9zsLlFOTPcldk5or", "expires_in": "3599" }
+
+{
+  "BusinessShortCode": "	174379",
+  "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZGExZWQyYzkxOTIwMTkxMDEzMTc1OQ==",
+  "Timestamp": "201910131759",
+  "TransactionType": "CustomerPayBillOnline",
+  "Amount": "1",
+  "PartyA": "254713777624",
+  "PartyB": "174379",
+  "PhoneNumber": "0713777624",
+  "CallBackURL": "https://c5eac8cf.ngrok.io/hooks/mpesa",
+  "AccountReference": "test",
+  "TransactionDesc": "test"
+}
